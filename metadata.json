@@ -1,0 +1,9 @@
+{
+  "name": "Split Keeb Status",
+  "description": "Extension for displaying battery status of wireless split keyboards",
+  "uuid": "split-keeb-status@sid.bit64.dev",
+  "shell-version": [
+    "43"
+  ],
+  "version": "1.0.0"
+}
